@@ -1,0 +1,33 @@
+h1 {
+    border: 1px solid blue;
+    color: rgb(224, 82, 21);
+    text-align: center;
+}
+
+div {
+    text-align: right;
+}
+
+#summer {
+    background-color: orange;
+    font-style: italic;
+}
+
+.bordered{
+    border: 5px solid green;
+    border-radius: 20px;
+}
+
+ol {
+    color: blue;
+}
+
+#first {
+    background-color: aqua;
+}
+
+
+li {
+    margin: 10px;
+    padding: 10px;
+}
